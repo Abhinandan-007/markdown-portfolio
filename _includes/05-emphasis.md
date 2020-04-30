@@ -13,4 +13,4 @@ Below is the _list_ of my **dream places**:
 - New Zealand
 - Argentina
 - South Africa
-- Chile
+- Paraguay
