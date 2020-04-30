@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My Dream Places
+
+Below is the _list_ of my **dream places**:
+
+## Northern Hemisphere
+- Canada
+- Iceland
+- Norway
+- Sweden
+- Russia
+
+## Southern Hemisphere
+- New Zealand
+- Argentina
+- South Africa
+- Chile
